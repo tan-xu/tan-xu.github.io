@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "zh-CN"
+title                    : "Xu Tan"
+title_separator          : #"-"
+name                     : &name "Xu Tan (谭旭)"
+description              : &description "Senior Researcher @ Microsoft Research Asia"
+#"Xu Tan (谭旭) is a Senior Researcher in Machine Learning Group, Microsoft Research Asia (MSRA). His research interests cover machine learning, deep learning, and their applications on natural language/speech/music processing, including neural machine translation, pre-training, neural architecture search, text to speech, automatic speech recognition, music understanding and generation, etc. The machine translation systems developed by him have achieved human parity on Chinese-English machine translation in 2018 and won several champions on WMT machine translation competition in 2019. He has designed several popular language and speech models, such as MASS and FastSpeech, and has transferred many research works to the language and speech product in Microsoft. E-mail: xuta@microsoft.com"
+url                      : "https://tan-xu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tan-xu/tan-xu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,8 +57,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+#  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,36 +81,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  name             : "Xu Tan (谭旭)"
+  avatar           : "Xu-Tan.jpg"
+  bio              : "Senior Researcher @ Microsoft Research Asia"
+  location         : "Beijing, China"
+  employer         : "Microsoft"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=tob-U1oAAAAJ"
+  email            : "xuta@microsoft.com"
+  researchgate     : #"https://www.researchgate.net/profile/Xu-Tan-12" 
+  uri              : "https://www.microsoft.com/en-us/research/people/xuta/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tan-xu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  dblp             : #"https://dblp.uni-trier.de/pid/96/10484-3.html"
+  orcid            : #"https://orcid.org/0000-0001-5631-0639"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
