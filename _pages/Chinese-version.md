@@ -1,11 +1,7 @@
 ---
-permalink: /Chinese-version
-title: ""
-excerpt: "About me"
+permalink: /Chinese-version/
+title: "中文简介"
 author_profile: true
-redirect_from: 
-  - /Chinese-version/
-  - /Chinese-version.html
 ---
 
 
