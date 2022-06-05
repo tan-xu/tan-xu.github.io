@@ -18,6 +18,10 @@ redirect_from:
 * He is an Action Editor of [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/), an Area Chair of AAAI 2021/2022 and NeurIPS 2021/2022, a member of IEEE, and a member of the standing committee on [Computing Art](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_CA/) in China Computer Federation (CCF).
 
 
+## We are hiring! 
+* We are hiring researchers on deep learning, NLP/Speech, generative models, data (text, speech, music, image) generation. If you have interests, welcome to contact me: xuta@microsoft.com.
+* We are also hiring research interns in the above directions.
+
 ## Featured Projects
 ### 1. Neural Machine Translation
 * Pubish 20+ papers on top conferences, multiple technologies transferred into Microsoft Translator to improve the product experiences.
