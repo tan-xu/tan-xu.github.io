@@ -1,6 +1,6 @@
 ---
 permalink: /Chinese-version/
-title: "中文简介"
+title: ""
 author_profile: true
 ---
 
