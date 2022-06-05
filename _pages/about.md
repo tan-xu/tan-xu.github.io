@@ -44,11 +44,14 @@ redirect_from:
 * Publish 10+ papers on top conferences (MASS, MPNet, Transcormer, NAS-BERT, MP-BERT, SongMASS, MusicBERT, etc)
 * [MASS](https://arxiv.org/pdf/1905.02450.pdf) deployed in Bing Ads for Ads content generation, and deployed in Bing Translation for low-resource languages. 
 * [MPNet](https://arxiv.org/pdf/2004.09297.pdf) adopted in [Huggingface](https://huggingface.co/transformers/model_doc/mpnet.html).
-#### &nbsp; 4.2. Non-Autoregressive Sequence Generation
+
+#### &nbsp;4.2. Non-Autoregressive Sequence Generation
 * Publish 10+ papers (FastSpeech 1/2, AdaSpeech 1/2/3, NaturalSpeech, HiFiSinger, FastCorrect 1/2/3, etc) on non-autoregressive sequence generation on text and speech generation tasks, such as neural machine translation, text error correction, automatic speech recognition, text to speech, singing voice synthesis, etc.
 * Give a [tutorial on non-autoregressive sequence generation](https://nar-tutorial.github.io/acl2022/) at ACL 2022. 
+
 #### &nbsp; 4.3. Efficient Machine Learning
 * Design efficient models and algorithms to reduce the demands on big data, big model and big computation, with small latency/memory/computation/labeling cost. 
+
 #### &nbsp; 4.4. Multilingual and Low-Resource Scenarios
 #### &nbsp; 4.5. Model Structure and Learning Paradigm Design
 #### &nbsp; 4.6. Neural Architecture Search 
