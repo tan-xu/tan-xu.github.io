@@ -63,6 +63,7 @@ redirect_from:
 
 <br/>
 <br/>
-For Chinese version, please visit [中文版](https://tan-xu.github.io/Chinese-version/). 
+For Chinese version, please visit [中文版](https://tan-xu.github.io/Chinese-version/). <br/>
+For more detailed English version, please visit my [Microsoft Homepage](https://www.microsoft.com/en-us/research/people/xuta/). 
 
 
