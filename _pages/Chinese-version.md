@@ -17,6 +17,7 @@ author_profile: true
 * 研发的[NaturalSpeech](https://arxiv.org/abs/2205.04421)在语音合成LJSpeech数据集上首次达到人类录音水平! 
 * 在语音合成领域的[综述论文](https://arxiv.org/pdf/2106.15561.pdf)，[演讲](https://www.microsoft.com/en-us/research/people/xuta/)和[教程](https://github.com/tts-tutorial/)在学术界和工业界产生广泛的影响。 
 * 在AI音乐领域（词曲创作、伴奏生成、编曲、歌声合成、音乐理解等）开展了系统性的研究，在全球人工智能大会上做关于[AI音乐创作](https://mp.weixin.qq.com/s/0ef2Xn7oSGYlip7LEzHXog)的主题报告，在ACM Multimedia 2021会议上举办[AI音乐创作教程](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/Tutorial-on-AI-Music-Composition-@ACM-MM-2021.pdf)，开源AI音乐研究项目[Muzic](https://github.com/microsoft/muzic)。 
+* 担任Transactions on Machine Learning Research ([TMLR](https://www.jmlr.org/tmlr/)) Action Editor，担任AAAI 2021/2022和NeurIPS 2021/2022的领域主席，IEEE member，[CCF计算艺术分会](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_CA/)常委。
 
 <br/>
 <br/>
