@@ -12,15 +12,18 @@ redirect_from:
 # About
 * [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/) is a Senior Researcher in Machine Learning Group, Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)).
 * His research interests cover machine learning, deep learning, and their applications on natural language/speech/music processing, including neural machine translation, pre-training, text to speech, automatic speech recognition, music understanding and generation, talking face generation, etc. 
-* He has published [80+ papers](https://scholar.google.com/citations?user=tob-U1oAAAAJ), with citation over 3800+, and designed several popular language/speech/music models and systems, such as [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/), [FastSpeech](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/), and [Muzic](https://github.com/microsoft/muzic).
+* He has published [90+ papers](https://scholar.google.com/citations?user=tob-U1oAAAAJ), with citation 3900+, and designed several popular language/speech/music models and systems, such as [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/), [FastSpeech](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/), and [Muzic](https://github.com/microsoft/muzic).
 * He has many technologies (e.g., neural machine translation; pre-training models: [MASS](https://arxiv.org/pdf/1905.02450.pdf); text to speech: [FastSpeech 1](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/)/[2](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/fastspeech-2-fast-and-high-quality-end-to-end-text-to-speech/), [AdaSpeech](https://arxiv.org/pdf/2103.00993.pdf), [LRSpeech](https://arxiv.org/pdf/2008.03687.pdf); AI music composition: [SongMASS](https://arxiv.org/pdf/2012.05168.pdf), [TeleMelody](https://arxiv.org/pdf/2109.09617.pdf), [HiFiSinger](https://arxiv.org/pdf/2009.01776.pdf); ASR error correction: [FastCorrect 1](https://arxiv.org/pdf/2105.03842.pdf)/[2](https://arxiv.org/pdf/2109.14420.pdf); etc) deployed in Microsoft products (e.g., Bing Search/Ads, Microsoft Translator, Azure TTS, Azure ASR, Microsoft Xiaoice, etc).
 * He has several opensource projects on Github, such as [MASS](https://github.com/microsoft/mass), MPNet([Huggingface](https://huggingface.co/transformers/model_doc/mpnet.html)), [Muzic](https://github.com/microsoft/muzic), [NeuralSpeech](https://github.com/microsoft/NeuralSpeech).
-* He is an Action Editor of [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/), an Area Chair of AAAI 2021/2022 and NeurIPS 2021/2022, a member of IEEE, and a member of the standing committee on [Computing Art](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_CA/) in China Computer Federation (CCF).
+* He is an Action Editor of [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/), an Area Chair of AAAI 2021/2022 and NeurIPS 2021/2022, a member of IEEE, and a member of the standing committee on [Computational Art](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_CA/) in China Computer Federation (CCF).
 
 
 ## We are hiring! 
-* We are hiring researchers on deep learning, NLP/Speech, generative models, data (text, speech, music, image) generation. If you have interests, welcome to contact me: xuta@microsoft.com.
+* We are hiring researchers on Machine Translation/NLP, Speech, Generative Models, Machine Learning, and Deep learning! If you have interests, welcome to contact me: xuta@microsoft.com.
 * We are also hiring research interns in the above directions.
+
+
+
 
 ## Featured Projects
 ### 1. Neural Machine Translation
