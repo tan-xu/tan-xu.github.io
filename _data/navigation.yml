@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Chinese/中文"
-    url: /Chinese-version/
+    url: /chinese-version/
 
   - title: "Homepage@Microsoft"
-    url: /Microsoft/ 
+    url: /microsoft/ 
   
   - title: "Publications"
     url: /publications/  
