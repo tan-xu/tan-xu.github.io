@@ -1,5 +1,5 @@
 ---
-permalink: /Chinese-version/
+permalink: /chinese-version/
 title: ""
 author_profile: true
 ---
