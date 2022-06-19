@@ -3,6 +3,9 @@ main:
   - title: "Chinese/中文"
     url: /Chinese-version/
 
+  - title: "Homepage@Microsoft"
+    url: /Microsoft/ 
+  
   - title: "Publications"
     url: /publications/  
 
