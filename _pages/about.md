@@ -19,7 +19,7 @@ redirect_from:
 
 
 ## We are hiring! 
-* We are hiring researchers on Machine Translation/NLP, Speech, Generative Models, Machine Learning, and Deep learning! If you have interests, welcome to contact me: xuta@microsoft.com.
+* We are hiring researchers on *Machine Translation/NLP, Speech, Generative Models, Machine Learning, and Deep learning*! If you have interests, welcome to contact me: xuta@microsoft.com.
 * We are also hiring research interns in the above directions.
 
 
