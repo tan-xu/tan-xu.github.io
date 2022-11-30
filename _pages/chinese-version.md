@@ -8,7 +8,7 @@ author_profile: true
 # 个人简介
 
 * 谭旭是微软亚洲研究院的[高级研究经理](https://www.microsoft.com/en-us/research/people/xuta/)，研究方向为深度学习、自然语言处理、语音、AI音乐、AI内容生成等。
-* 发表[学术论文](https://scholar.google.com/citations?user=tob-U1oAAAAJ)100余篇，引用量5000+，在机器翻译、预训练、语音合成、AI音乐创作等领域的研究在学术界和工业界产生广泛的影响力。
+* 在AI学术会议发表学术论文，[引用量5000+](https://scholar.google.com/citations?user=tob-U1oAAAAJ)，在机器翻译、预训练、语音合成、AI音乐创作等领域的研究在学术界和工业界产生广泛的影响力。
 * 多项技术（如机器翻译技术，预训练模型[MASS](https://arxiv.org/pdf/1905.02450.pdf)，语音合成技术[FastSpeech 1](https://arxiv.org/pdf/1905.09263.pdf)/[2](https://arxiv.org/pdf/2006.04558.pdf)、[AdaSpeech](https://arxiv.org/pdf/2103.00993.pdf)、[LRSpeech](https://arxiv.org/pdf/2008.03687.pdf)，音乐生成技术[TeleMelody](https://arxiv.org/pdf/2109.09617.pdf)、[HiFiSinger](https://arxiv.org/pdf/2009.01776.pdf)，语音识别纠错技术[FastCorrect 1](https://arxiv.org/pdf/2105.03842.pdf)/[2](https://arxiv.org/pdf/2109.14420.pdf)等）应用在微软产品中（如Bing搜索，Bing广告，Azure机器翻译，Azure语音合成，Azure语音识别，微软小冰等）。
 * 通过Github开源多个项目和工具包，包括[MASS](https://github.com/microsoft/mass)，MPNet([Huggingface](https://huggingface.co/transformers/model_doc/mpnet.html))，[Muzic](https://github.com/microsoft/muzic)，[NeuralSpeech](https://github.com/microsoft/NeuralSpeech))等。
 * 研发的机器翻译系统在中英新闻翻译上达到人类水平（[新智元](https://mp.weixin.qq.com/s/fkPcs10tnQIvDiniRexCjQ)，[机器之心](https://syncedreview.com/2018/03/14/microsoft-ai-achieves-milestone-in-machine-translation/)，[微软AI头条](https://blogs.microsoft.com/ai/chinese-to-english-translator-milestone/)，[InfoQ](https://www.infoq.com/news/2018/03/parity-machine-translation/)），并在WMT 2019机器翻译比赛中获多项冠军（[新浪新闻](https://t.cj.sina.com.cn/articles/view/2118746300/7e4980bc02000nezo)，[微软AI头条](https://news.microsoft.com/apac/2019/05/22/microsoft-research-asia-msra-leads-in-2019-wmt-international-machine-translation-competition/)）。
