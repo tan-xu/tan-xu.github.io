@@ -10,24 +10,25 @@ redirect_from:
 
 
 # About
-* [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/) is a Principal Research Manager at Machine Learning Group, Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)).
-* His research interests cover deep learning, generative AI, and their applications on natural language/speech/music processing, including neural machine translation, pre-training, text to speech, automatic speech recognition, music understanding and generation, talking face generation, etc. 
-* He has published papers on top AI conferences, with [6000+ citations](https://scholar.google.com/citations?user=tob-U1oAAAAJ), and designed several popular language/speech/music models and systems, such as [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/), [FastSpeech 1/2](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/), [NaturalSpeech 1/2](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/new-technical-research-is-advancing-azure-s-neural-text-to/ba-p/3499414), and [Muzic](https://github.com/microsoft/muzic).
+* [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/) is a Principal Research Manager at Machine Learning Group, Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)). His research interests cover generative AI and language/speech/music/avatar processing. 
+* He has published papers on top AI conferences, with [8000+ citations](https://scholar.google.com/citations?user=tob-U1oAAAAJ), and designed several popular language/speech/music models and systems, such as [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/), [FastSpeech 1/2](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/), [NaturalSpeech 1/2](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/new-technical-research-is-advancing-azure-s-neural-text-to/ba-p/3499414), and [Muzic](https://github.com/microsoft/muzic).
 * He has many technologies (e.g., neural machine translation; pre-training models: [MASS](https://arxiv.org/abs/1905.02450); text to speech: [FastSpeech 1](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/)/[2](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/fastspeech-2-fast-and-high-quality-end-to-end-text-to-speech/), [AdaSpeech](https://arxiv.org/abs/2103.00993), [LRSpeech](https://arxiv.org/pdf/2008.03687.pdf); AI music composition: [TeleMelody](https://arxiv.org/abs/2109.09617), [HiFiSinger](https://arxiv.org/pdf/2009.01776.pdf); ASR error correction: [FastCorrect 1](https://arxiv.org/abs/2105.03842)/[2](https://arxiv.org/abs/2109.14420); etc) deployed in Microsoft products (e.g., Bing Search/Ads, Microsoft Translator, Azure TTS, Azure ASR, Microsoft Xiaoice, etc).
 * He and the team have several opensource projects on Github, such as [MASS](https://github.com/microsoft/mass), MPNet ([Huggingface](https://huggingface.co/transformers/model_doc/mpnet.html)), [Muzic](https://github.com/microsoft/muzic), [NeuralSpeech](https://github.com/microsoft/NeuralSpeech), and [HuggingGPT/JARVIS](https://github.com/microsoft/JARVIS).
 * He is an Action Editor of [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/), an Area Chair or Meta Reviewer of AAAI/NeurIPS/ICASSP, a senior member of IEEE, and a member of the standing committee on [Computational Art](https://www.ccf.org.cn/Chapters/CCF_Chapters/CCF_CA/) in China Computer Federation (CCF).
 
+For a more detailed homepage, please visit my [Microsoft Homepage](https://www.microsoft.com/en-us/research/people/xuta/). 
+
 
 ## We are hiring! 
-* We are hiring researchers on *Machine Translation/NLP, Speech, Generative Models, Machine Learning, and Deep learning*! If you have interests, welcome to contact me: [xuta@microsoft.com](xuta@microsoft.com).
+* We are hiring researchers on *Multimodality, Machine Translation/NLP, Speech, Generative Models, and Deep Learning*! If you are interested, welcome to contact me: [xuta@microsoft.com](xuta@microsoft.com).
 * We are also hiring research interns in the above directions.
 
 
-
+<!-- 
 
 ## Featured Projects
 ### 1. Neural Machine Translation
-* Multiple technologies transferred into Microsoft Translator to improve the product experiences.
+* Multiple technologies transferred into Microsoft Translator to improve the product experience.
 * We [achieved human parity](https://blogs.microsoft.com/ai/chinese-to-english-translator-milestone/) on Chinese-English machine translation in 2018.
 * We won [several champions](https://news.microsoft.com/apac/2019/05/22/microsoft-research-asia-msra-leads-in-2019-wmt-international-machine-translation-competition/) on WMT machine translation competition in 2019. 
 * Our [MASS](https://arxiv.org/abs/1905.02450) is the first pre-training model for sequence to sequence generation, and is one of the top cited papers in ICML 2019. MASS is deployed in [Microsoft Translator](https://www.bing.com/translator) to enable the translation of 10+ low-resource languages. [[blog]](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/) [[code]](https://github.com/microsoft/MASS)
@@ -68,6 +69,7 @@ redirect_from:
 <br/>
 <br/>
 For Chinese version, please visit [https://tan-xu.github.io/chinese-version/](https://tan-xu.github.io/chinese-version/). <br/>
-For more detailed English version, please visit my [Microsoft Homepage](https://www.microsoft.com/en-us/research/people/xuta/). 
+--> 
+
 
 
