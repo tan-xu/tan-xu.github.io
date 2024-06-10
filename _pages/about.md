@@ -20,7 +20,7 @@ For a more detailed homepage, please visit my [Microsoft Homepage](https://www.m
 
 
 ## We are hiring! 
-* We are hiring researchers on *Multimodality, Machine Translation/NLP, Speech, Generative Models, and Deep Learning*! If you are interested, welcome to contact me: [xuta@microsoft.com](tanxu2012@gmail.com).
+* We are hiring researchers on *Multimodality, Machine Translation/NLP, Speech, Generative Models, and Deep Learning*! If you are interested, welcome to contact me: [tanxu2012@gmail.com](tanxu2012@gmail.com).
 * We are also hiring research interns in the above directions.
 
 
