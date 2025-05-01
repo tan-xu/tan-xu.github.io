@@ -1,0 +1,28 @@
+# main links links
+main:
+  #- title: "Homepage@Microsoft"
+  #  url: https://www.microsoft.com/en-us/research/people/xuta/
+    
+  #- title: "Chinese"
+  #  url: /chinese-version/
+  
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=tob-U1oAAAAJ
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+    
+  #- title: "CV"
+  #  url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
