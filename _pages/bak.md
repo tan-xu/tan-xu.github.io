@@ -4,7 +4,8 @@ title: ""
 author_profile: true
 ---
 
-
+<deprecated>
+  
 # 个人简介
 
 * 谭旭是微软亚洲研究院的[首席研究经理](https://www.microsoft.com/en-us/research/people/xuta/)，研究方向为生成式人工智能、自然语言/语音/音乐处理、虚拟人、AI内容生成等。
