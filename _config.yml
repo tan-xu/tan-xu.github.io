@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Xu Tan"
 title_separator          : #"-"
-name                     : &name "Xu Tan (谭旭)"
+name                     : &name "Xu Tan"
 description              : &description "ex Principal Research Manager @ Microsoft Research Asia"
 url                      : "https://tan-xu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xu Tan (谭旭)"
+  name             : "Xu Tan"
   avatar           : "Xu-Tan.jpg"
-  bio              : "Principal Research Manager @ Microsoft Research Asia"
+  bio              : "ex Principal Research Manager @ Microsoft Research Asia"
   location         : "Beijing, China"
   employer         : "Microsoft"
   pubmed           : 
